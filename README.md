@@ -1,2 +1,2 @@
-# studiengang-informatik
+# Studiengang Informatik
 Modulhandbuch, ...
