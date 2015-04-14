@@ -2,6 +2,7 @@
 
 Wichtige Links:
 - Kontakte: https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/informatik-b-sc/kontakte.html
+- Stundenplan: https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/informatik-b-sc/stundenplan.html
 - Moodle: https://elearning.frankfurt-university.de/
 - HIS: https://his-www.dv.fh-frankfurt.de/
 - Mensa-Plan: http://www.studentenwerkfrankfurt.de/essen-trinken/speiseplaene-neu/esswerk.html
